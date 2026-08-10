@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=blur&color=0:77a7de,100:000cbc&height=300&section=header&text=ㄴㅇㄹ&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:77A7DE,100:000CBC&height=220&section=header&text=김동환&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Product%20Engineer&descSize=20&descAlignY=63&animation=fadeIn)
 ---
 <!-- 한문장 소개글 -->
 ## __AI를 활용해 실제 문제를 해결하는 서비스를 설계하고 구현합니다.__
@@ -49,6 +49,9 @@
 - PostgreSQL에 서비스 데이터 저장
 - MongoDB를 벡터 검색 및 문서 관리에 활용
 - Railway를 통한 소형 서버 배포
+---
+## 주요 프로젝트
+
 ---
 
 ## 수상 및 활동
