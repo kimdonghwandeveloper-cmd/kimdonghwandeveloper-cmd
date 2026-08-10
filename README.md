@@ -10,24 +10,38 @@
 ## 보유 기술
 <!-- 기술스택 -->
 
-
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+<p>
+  <img height="32" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="32" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
 
 ### Backend & AI
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
+<p>
+  <img height="32" alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+<p>
+  <img height="32" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img height="32" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ### Deployment
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+<p>
+  <img height="32" alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
+
 ### Framework
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+<p>
+  <img height="32" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img height="32" alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+</p>
 
 <!-- 사용 용도 간략히 -->
 - FastAPI 기반 비동기 API 서버 설계
@@ -37,3 +51,9 @@
 - Railway를 통한 소형 서버 배포
 ---
 
+## 수상 및 활동
+- **1학년 해커톤 대회 우수상**
+노약자를 위한 레시피를 알려주는 프로그램 개발을 위해 기획과 프론트엔드 디자인, 발표를 맡았습니다.
+- **SW-AI 우수상**
+화재 및 연기를 실시간 탐지하여 화재가 난 곳의 지역 근처에 있는 사람들에게 이메일로 상황을 요약하여 전송하는 AI모델 및 서비스 개발
+---
