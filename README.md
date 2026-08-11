@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:77A7DE,100:000CBC&height=220&section=header&text=김동환&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Product%20Engineer&descSize=20&descAlignY=63&animation=fadeIn)
 ---
 <!-- 한문장 소개글 -->
-## __AI를 활용해 실제 문제를 해결하는 서비스를 설계하고 구현합니다.__
+## __AI를 활용해 실제 문제를 해결하는 서비스를 설계하고 구현하기 위해 소통하는 것을 매우 즐깁니다.__
 <!-- 연락처 -->
 > <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/46e2b39d-6e89-4f64-9411-3aef10ab2248" /> **kimdonghwandeveloper@gmail.com**
 
@@ -52,13 +52,9 @@
 ---
 ## 주요 프로젝트
 ### MagicTree
-### INMA
-### SW-AI
----
 
-## 수상 및 활동
-- **1학년 해커톤 대회 우수상**
-노약자를 위한 레시피를 알려주는 프로그램 개발을 위해 기획과 프론트엔드 디자인, 발표를 맡았습니다.
-- **SW-AI 우수상**
-화재 및 연기를 실시간 탐지하여 화재가 난 곳의 지역 근처에 있는 사람들에게 이메일로 상황을 요약하여 전송하는 AI모델 및 서비스 개발
 ---
+### INMA
+
+---
+### SW-AI
