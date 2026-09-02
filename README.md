@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:77A7DE,100:000CBC&height=220&section=header&text=김동환&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Product%20Engineer&descSize=20&descAlignY=63&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:77A7DE,100:000CBC&height=220&section=header&text=김동환&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=%20%20&descSize=20&descAlignY=63&animation=fadeIn)
 ---
 <!-- 한문장 소개글 -->
 ## __AI를 활용해 실제 문제를 해결하는 서비스를 설계하고 구현하기 위해 소통하는 것을 매우 즐깁니다.__
